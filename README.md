@@ -23,25 +23,6 @@ The system is designed with modular architecture and controlled conversation flo
 
 ---
 
-## Project Structure
-talentscout-ai-assistant/
-│
-├── app.py
-├── requirements.txt
-├── .env
-│
-├── services/
-│ ├── llm_service.py
-│ └── prompt_engine.py
-│
-├── utils/
-│ └── session_manager.py
-│
-└── README.md
-
-
----
-
 ## Architecture
 
 The application follows a modular and layered architecture:
@@ -243,4 +224,6 @@ This project demonstrates:
 
 ## Author
 Chethan D L
+
+
 Developed as part of an AI/ML internship technical assignment.

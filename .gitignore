@@ -1,0 +1,55 @@
+# =========================
+# Python Bytecode
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual Environment
+# =========================
+venv/
+env/
+aiml/
+.venv/
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.*
+
+
+.streamlit/
+*.streamlit
+
+*.log
+logs/
+
+
+.DS_Store
+Thumbs.db
+
+
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+build/
+dist/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+
+
+.coverage
+htmlcov/
+.pytest_cache/
+
+*.tmp
+*.bak
+*.sqlite3
